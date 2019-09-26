@@ -1,0 +1,3 @@
+ls | grep pull
+get pull.sh
+#exit
