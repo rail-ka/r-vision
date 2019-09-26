@@ -44,6 +44,6 @@ MacBook:ssh-test dos$
 
 ## Полезные ссылки
 
-https://github.com/mscdex/ssh2
-https://github.com/mscdex/ssh2-streams
-https://github.com/Stocard/node-ssh-forward
+- https://github.com/mscdex/ssh2
+- https://github.com/mscdex/ssh2-streams
+- https://github.com/Stocard/node-ssh-forward
